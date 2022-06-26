@@ -48,7 +48,7 @@ const Home = () => {
       <div className="container">
         <div className="row">
           <div className="col fs-4 fw-bold mb-4 mt-5">Characters</div>
-          <div className="col-4">
+          <div className="col-lg-4 col-md-6 col-12">
             <Search setPageNumber={setPageNumber} setSearch={setSearch} />
           </div>
         </div>

@@ -3,3 +3,12 @@
   font-weight: bold;
   color: #0b5ed7 !important;
 }
+
+a {
+  color: aliceblue;
+  text-decoration: none;
+}
+
+a:hover {
+  color: aliceblue;
+}

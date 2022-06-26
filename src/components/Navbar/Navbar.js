@@ -7,7 +7,7 @@ const Navbar = () => {
     <nav className="navbar navbar-expand-lg bg-light">
       <div className="container">
         <Link to="/" className="fs-3 ubuntu navbar-brand">
-          RAMC <span className="text-primary">Finder</span>
+          <span className="text-primary">RAMC Finder</span>
         </Link>
         <button
           className="navbar-toggler"
